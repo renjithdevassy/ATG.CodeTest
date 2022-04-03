@@ -1,0 +1,16 @@
+{
+  "project": {
+    "title": "Cricksmith",
+    "description": "Cricket Data Entry",
+    "techstack": [
+      {
+        "1": "C#",
+        "2": "ASP.NET CORE 5.0",
+        "3": "Rest API",
+        "4": "Blazor",
+        "5": "API Gateway",
+        "6": "Unit Testing"
+      }
+    ]
+  }
+}
